@@ -19,3 +19,7 @@ cd example-app
 The first time you run the Sail `up` command, Sail's application containers will be built on your machine. This could take several minutes. **Don't worry, subsequent attempts to start Sail will be much faster.**
 
 Once the application's Docker containers have been started, you can access the application in your web browser at: http://localhost.
+
+| |Free ($0)|Standard ($7)|Premium ($15)|
+|---|---|---|---|
+|User limit|10 users|10,000 users|15,000 users|
