@@ -3,7 +3,7 @@
 If you're developing on a Mac and [Docker Desktop](https://www.docker.com/products/docker-desktop) is already installed, you can use a simple terminal command to create a new Laravel project. For example, to create a new Laravel application in a directory named "example-app", you may run the following command in your terminal:
 
 ```nothing
-curl -s https://raw.githubusercontent.com/laravel-jetpack/flow/main/build | bash
+curl -s https://raw.githubusercontent.com/laraveljetpack/flow/main/build | bash
 ```
 
 The Laravel application's directory will be created within the directory you execute the command from.
