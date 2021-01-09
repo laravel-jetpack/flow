@@ -11,7 +11,7 @@ The Laravel application's directory will be created within the directory you exe
 After the project has been created, you can navigate to the application directory and start Laravel Sail. Laravel Sail provides a simple command-line interface for interacting with Laravel's default Docker configuration:
 
 ```nothing
-cd example-app
+cd flow
 
 ./vendor/bin/sail up
 ```
